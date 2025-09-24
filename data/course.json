@@ -1,0 +1,58 @@
+{
+  "term": "Fall",
+  "year": "2011",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "International Economics"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Financial Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ]
+  ],
+  "legacy_uid": "87830f02-bdf3-6c81-ed71-e43a13464dd3",
+  "instructors": {
+    "content": [
+      "7d89f140-764e-18aa-6eff-5873c0e2ad5a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ef09d4d4-d5b2-cb78-c87f-f93179f10dff",
+    "website": "17-424-international-political-economy-of-advanced-industrial-societies-fall-2011"
+  },
+  "course_title": "International Political Economy of Advanced Industrial Societies",
+  "course_description": "This graduate class is designed as a Ph.D.-level overview of international political economy (IPE), with an emphasis on the advanced industrial countries. It also serves as preparation for the IPE portion of the International Relations general exam. An important goal of the course is to use economic theories to identify the welfare effects, distributional consequences, and security implication of foreign economic policy decisions, and to use the tools of political science to analyze how interest groups, voters, political parties, electoral institutions, ideas, and power politics interact to share policy outcomes.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.424",
+  "course_image_thumbnail": {
+    "content": "13eb2cc9-bafe-8a41-477c-076fdf2a9ec1",
+    "website": "17-424-international-political-economy-of-advanced-industrial-societies-fall-2011"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "b1da187a-9d90-4d90-88fc-568521ccb99f",
+  "site_short_id": "17.424-fall-2011",
+  "site_url_path": "courses/17-424-international-political-economy-of-advanced-industrial-societies-fall-2011",
+  "title": "Course Metadata"
+}
