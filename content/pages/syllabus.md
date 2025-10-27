@@ -80,13 +80,13 @@ Students were asked to purchase the following books:
 
 Frieden, Jeffry A. _Global Capitalism: Its Fall and Rise in the Twentieth Century_. W. W. Norton & Company, 2006. ISBN: 9780393058086.
 
-Mosley, Layna. _Global Capital and National Governments (Cambridge Studies in Comparative Politics)_. Cambridge University Press, 2003. ISBN: 9780521521628. \[Preview with {{% resource_link "d3463474-235a-4b24-9d37-fc738d62d29c" "Google Books" %}}\]
+Mosley, Layna. _Global Capital and National Governments (Cambridge Studies in Comparative Politics)_. Cambridge University Press, 2003. ISBN: 9780521521628. \[Preview with {{% resource_link "a57e2f6d-cc60-4ac5-8480-71f458f55425" "Google Books" %}}\]
 
 Students were encouraged to consult a good international economics textbook such as:
 
 Caves, Richard E., Jeffrey A. Frankel, and Ronald W. Jones. _World Trade and Payments: An Introduction (10th Edition, International Edition)_. Pearson, 2007. ISBN: 9780321248558.
 
-Krugman, Paul R., Maurice Obstfeld, and Marc Melitz. _International Economics (9th Edition)_. Prentice Hall, 2011. ISBN: 9780132146654. \[Preview with {{% resource_link "946ac8d9-cf1e-4653-9970-7afa17fea48a" "Google Books" %}}\]
+Krugman, Paul R., Maurice Obstfeld, and Marc Melitz. _International Economics (9th Edition)_. Prentice Hall, 2011. ISBN: 9780132146654. \[Preview with {{% resource_link "f474cb9b-9742-4321-86f7-1cd65c4781f3" "Google Books" %}}\]
 
 Accessible discussions of many of the economic theories discussed in the readings can be found in:
 
@@ -96,4 +96,4 @@ Oatley, Thomas. _International Political Economy (5th Edition)_. Longman, 2011. 
 
 An excellent reference on the history of international monetary relations is:
 
-Eichengreen, Barry. _Globalizing Capital: A History of the International Monetary System (Second Edition)_. Princeton University Press, 2008. ISBN: 9780691139371. \[Preview with {{% resource_link "51d04e11-23e6-4f4a-ad5b-d17e0899e49b" "Google Books" %}}\]
+Eichengreen, Barry. _Globalizing Capital: A History of the International Monetary System (Second Edition)_. Princeton University Press, 2008. ISBN: 9780691139371. \[Preview with {{% resource_link "d1174c5f-3792-4cd4-b46d-fee4cacfce91" "Google Books" %}}\]
